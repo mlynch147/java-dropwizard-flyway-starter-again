@@ -1,0 +1,8 @@
+---
+logging:
+  level: INFO
+  loggers:
+    org.example: DEBUG
+
+swagger:
+  resourcePackage: "org.example.controllers"
